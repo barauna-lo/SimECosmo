@@ -7,5 +7,8 @@ This program was developed in python 3.8 using the graphical interface with the 
 
 Its source code will be made available for public development in the future. For now, I present here your executable version with .exe extension of SimECosmo.
 
-Any suggestion or problem in the program please contact us
+Any suggestion or problem in the program please contact us.
+
+The code can be acessed for here:
+https://sourceforge.net/projects/simecosmo/
 
